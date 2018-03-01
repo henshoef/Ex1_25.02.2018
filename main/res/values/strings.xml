@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="push_me">push me</string>
+    <string name="relative">Relative</string>
+    <string name="linear">Linear</string>
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+    <string name="yellow">yellow</string>
+    <string name="sidewalk">SideWalk</string>
+    <string name="vehicles">Vehicles</string>
+</resources>
